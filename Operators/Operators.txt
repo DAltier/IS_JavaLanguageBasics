@@ -1,0 +1,18 @@
+Questions
+1. Consider the following code snippet.
+    arrayOfInts[j] > arrayOfInts[j+1] 
+    Which operators does the code contain? 
+      Answer: + and >
+2. Consider the following code snippet.
+    int i = 10;
+    int n = i++%5;
+    What are the values of i and n after the code is executed?
+      Answer: i = 11; n = 0;
+    What are the final values of i and n if instead of using the postfix increment operator (i++), you use the prefix version (++i))?
+      Answer: i = 11; n = 1;
+3. To invert the value of a boolean, which operator would you use?
+      Answer: !
+4. Which operator is used to compare two values, = or == ?
+      Answer: ==
+5. Explain the following code sample: result = someCondition ? value1 : value2;
+      Answer: If someCondition is true, result = value1; else result = value2;

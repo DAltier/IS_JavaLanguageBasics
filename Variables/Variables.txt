@@ -1,0 +1,8 @@
+Questions
+The term "instance variable" is another name for _non-static field_.
+The term "class variable" is another name for _static field_.
+A local variable stores temporary state; it is declared inside a _method_.
+A variable declared within the opening and closing parenthesis of a method signature is called a _parameter_.
+What are the eight primitive data types supported by the Java programming language? byte, int, short, long, double, float, boolean, char
+Character strings are represented by the class _java.lang.String_.
+An _array_ is a container object that holds a fixed number of values of a single type.
